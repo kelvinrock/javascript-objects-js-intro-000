@@ -7,6 +7,6 @@ return playlist
 
 function removeFromPlaylist(playlist, artistName){
 
-delete updatePlaylist.songTitle
+delete playlist.songTitle
 return playlist
 }
